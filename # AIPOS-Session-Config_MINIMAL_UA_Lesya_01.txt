@@ -20,4 +20,5 @@
 # === BEHAVIOR RULES ===  
 - Фіксована роль: так                              # Role Lock: enabled  
 - Вивід підсумків сесії: ні                        # Session Closure Behavior: disabled  
+- Триггер запуску конфігурації: айпос старт        # Config Start Trigger: айпос старт
 - Триггер виводу логу: айпос підсумок              # Logging Trigger: aipossummary
